@@ -1,0 +1,5 @@
+pitch_speed,pitch_location_x,pitch_location_y,release_speed,spin_rate,batter_ISO_vs_pitch,batter_SLG_vs_pitch,batter_LA_vs_pitch,pitcher_HR9_vs_pitch,pitcher_Barrel_vs_pitch,ballpark_HR_factor,count,pitch_type,handedness_matchup,is_home_run
+94.3,0.15,2.6,94.3,2200,0.260,0.500,15.2,1.2,8.1,1.05,2,FF,LR,1
+92.1,-0.1,2.9,92.1,2150,0.200,0.400,12.0,1.0,7.5,0.98,1,SL,RR,0
+95.6,0.05,3.0,95.6,2300,0.300,0.600,17.3,1.5,9.2,1.10,3,FF,LR,1
+88.9,-0.2,2.4,88.9,2100,0.180,0.370,10.4,0.8,6.9,0.95,0,CH,LL,0

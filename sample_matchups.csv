@@ -1,0 +1,3 @@
+batter_name,pitcher_name,pitch_speed,release_speed,spin_rate,batter_ISO_vs_pitch,batter_SLG_vs_pitch,batter_LA_vs_pitch,pitcher_HR9_vs_pitch,pitcher_Barrel_vs_pitch,ballpark_HR_factor,count,pitch_type_FF,handedness_matchup_LR
+Aaron Judge,Gerrit Cole,95.1,94.8,2250,0.31,0.65,18.2,1.4,10.2,1.15,1,1,1
+Shohei Ohtani,Max Scherzer,93.7,93.2,2400,0.295,0.61,17.5,1.2,8.9,0.95,2,1,1
